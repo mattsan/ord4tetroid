@@ -22,6 +22,15 @@ Prolog
 * tetromino.pl
 * testpattern.txt （テストパターン）
 
+Haskell
+-------
+
+処理系はGHC version 7.4.2です。
+違うアプローチのコードを2つ。
+
+* tetromino.hs
+* tetromino2.hs
+
 [SWI-Prolog]: http://www.swi-prolog.org
 [テトロミノ認識]: http://nabetani.sakura.ne.jp/hena/ord4tetroid/
 [鍋谷さん]: http://atnd.org/users/58114
